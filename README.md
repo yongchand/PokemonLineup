@@ -10,3 +10,4 @@ Input your pokemon lineup list and opponent pokemon list.
 
 # TO DO
 Will consider multi-types pokemon and also will move this algorithm to chatbot
+Will also create as package later
